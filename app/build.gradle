@@ -23,7 +23,7 @@ android {
         renderscriptTargetApi 29 //must match target sdk and build tools
         vectorDrawables.useSupportLibrary = true
 
-        applicationId "code.name.monkey.retromusic"
+        applicationId "code.unfunny.retrokang"
         versionCode 422
         versionName '3.5.110'
 
